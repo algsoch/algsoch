@@ -62,9 +62,7 @@
 ---
 
 ### 📈 **My Vision**
-- 🎥 Revolutionize cinema with a next-gen **theater** experience.  
-- 🏡 Build a luxurious family house named **Algsoch**.  
-- 🏎️ Own a fleet of **luxury cars**, **bikes**, and **scooters**.  
+Computer by human brain without any physical instrument 
 
 ---
 
