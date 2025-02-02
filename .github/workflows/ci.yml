@@ -1,0 +1,19 @@
+name: My Custom Action
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: 24f2006438@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
+
+      - name: Final Step
+        run: echo "GitHub Action Completed!"
