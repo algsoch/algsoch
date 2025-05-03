@@ -1,9 +1,13 @@
 <p align="center">
-## 🌟 Vicky Kumar - AI Engineer | LLM Developer | Software Engineer  
+  <p align="center">
+  Vicky Kumar </p>
+  <p align="center">
+    <bold>AI Engineer | LLM Developer | Software Engineer  | Prompt Engineer</bold>
+    </p>
   </p>
-> Turning **imagination into reality** with **code**. Passionate about **AI, LLMs, and automation**. 🚀  
-
----
+  <p align="center">
+Turning  imagination into reality with code. Passionate about AI, LLMs, and automation 
+  </p>
 
 ## 🛠️ About Me  
 - 🎓 **BS in Data Science and Applications** at **IIT Madras** (2024-2028).  
@@ -117,8 +121,7 @@ It processes questions via an API and provides **precise, context-aware answers*
 ### 📈 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=algsoch&theme=tokyo-night)
 
-### 💬 AI-Generated Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
