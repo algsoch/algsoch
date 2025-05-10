@@ -15,9 +15,9 @@ Turning  imagination into reality with code. Passionate about AI, LLMs, and auto
 - 🔍 Passionate about **LLMs, machine learning, automation, and full-stack development**.  
 - 🏆 **Freelancer** on **Upwork, Fiverr, and Freelancer**, delivering cutting-edge solutions.  
 - 🏗️ **Currently working on:**  
-  - 🧠 **Yantravid** - A custom **LLM** that answers graded assignments from **Tools in Data Science**.  
-  - 🤖 **AI-powered Automation** - Developing **LLM-based automation tools** for businesses.  
-  - 💡 **Freelancer-Tailor App** - A smart platform to empower local businesses.  
+  - 🧠 **Yantravid** - A custom **LLM** that answers graded assignments from **Tools in Data Science** using **Gemini**.  
+  - 💡 **Freelancer-Tailor App** - A smart platform to empower local businesses.
+  - 🤖 **Chatbot For TDS** - A custom **Chatbot** that answers graded assignments from **Tools in Data Science** using **Python**.
 
 ---
 
