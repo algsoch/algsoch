@@ -116,10 +116,9 @@ It processes questions via an API and provides **precise, context-aware answers*
 </p>
 
 ### 🚀 Latest Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=algsoch&repo=-Chatbot_For_TDS_IIT_MADRAS&theme=tokyonight)](https://github.com/algsoch/-Chatbot_For_TDS_IIT_MADRAS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=algsoch&repo=Yantravid&theme=tokyonight)](https://github.com/algsoch/Yantravid)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=algsoch&repo=AI-Trainer&theme=tokyonight)](https://github.com/algsoch/AI-Trainer)
-### 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=algsoch&theme=tokyo-night)
+
 
 
 
