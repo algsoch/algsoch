@@ -100,7 +100,7 @@ My work spans **LLM evaluation**, **dataset creation**, **real-time communicatio
 
 ---
 
-### 🤖 [AI-Powered TDS Assistant](https://github.com/algsoch/TDS_Assistant) — Multi-Capability AI System
+### 🤖 [AI-Powered TDS Assistant](https://github.com/algsoch/assistant_chatbot) — Multi-Capability AI System
 > **All-in-one AI assistant** for content analysis, automation, and workflow optimization
 
 - ✅ YouTube transcription with Whisper
