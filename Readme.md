@@ -34,7 +34,7 @@ My work spans **LLM evaluation**, **dataset creation**, **real-time communicatio
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 ### 🤖 AI/ML
 - CNNs, EfficientNet
