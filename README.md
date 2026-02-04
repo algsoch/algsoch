@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Vicky Kumar (@algsoch)
+# 👋 Hi, I'm Vicky Kumar 
 
-## 🎯 Python Engineer | AI/ML Specialist | Full-Stack Developer
+## 🎯 Python AI Engineer 
 
 > *Building intelligent systems with Python, FastAPI, and LangChain from IIT Madras*
 
